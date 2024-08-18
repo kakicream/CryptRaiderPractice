@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal\\cryptraiderpractice\\cryptraider\\source\\cryptraider\\cryptraider.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal\\cryptraiderpractice\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal\\cryptraiderpractice\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "d:\\unreal\\cryptraiderpractice\\cryptraider\\source\\cryptraider\\cryptraider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
