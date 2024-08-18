@@ -24,4 +24,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 	UPROPERTY(EditAnywhere)
 	int32 myInt = 4;
+		UPROPERTY(EditAnywhere)
+		float testFloat = 8.4;
 };
