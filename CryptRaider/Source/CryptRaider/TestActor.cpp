@@ -15,6 +15,8 @@ ATestActor::ATestActor()
 void ATestActor::BeginPlay()
 {
 	Super::BeginPlay();
+	myInt += 3;
+	myStringTest = "GameStarted";
 	
 }
 
@@ -22,6 +24,6 @@ void ATestActor::BeginPlay()
 void ATestActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+	testFloat += DeltaTime;
 }
 

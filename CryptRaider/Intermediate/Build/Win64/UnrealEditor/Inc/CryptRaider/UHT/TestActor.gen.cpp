@@ -36,8 +36,18 @@ struct Z_Construct_UClass_ATestActor_Statics
 		{ "Category", "TestActor" },
 		{ "ModuleRelativePath", "TestActor.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_testFloat_MetaData[] = {
+		{ "Category", "TestActor" },
+		{ "ModuleRelativePath", "TestActor.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_myStringTest_MetaData[] = {
+		{ "Category", "TestActor" },
+		{ "ModuleRelativePath", "TestActor.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FIntPropertyParams NewProp_myInt;
+	static const UECodeGen_Private::FFloatPropertyParams NewProp_testFloat;
+	static const UECodeGen_Private::FStrPropertyParams NewProp_myStringTest;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -46,8 +56,12 @@ struct Z_Construct_UClass_ATestActor_Statics
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
 const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_ATestActor_Statics::NewProp_myInt = { "myInt", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATestActor, myInt), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_myInt_MetaData), NewProp_myInt_MetaData) };
+const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATestActor_Statics::NewProp_testFloat = { "testFloat", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATestActor, testFloat), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_testFloat_MetaData), NewProp_testFloat_MetaData) };
+const UECodeGen_Private::FStrPropertyParams Z_Construct_UClass_ATestActor_Statics::NewProp_myStringTest = { "myStringTest", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATestActor, myStringTest), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_myStringTest_MetaData), NewProp_myStringTest_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ATestActor_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATestActor_Statics::NewProp_myInt,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATestActor_Statics::NewProp_testFloat,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATestActor_Statics::NewProp_myStringTest,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ATestActor_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_ATestActor_Statics::DependentSingletons[])() = {
@@ -90,10 +104,10 @@ ATestActor::~ATestActor() {}
 struct Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATestActor, ATestActor::StaticClass, TEXT("ATestActor"), &Z_Registration_Info_UClass_ATestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestActor), 2042926518U) },
+		{ Z_Construct_UClass_ATestActor, ATestActor::StaticClass, TEXT("ATestActor"), &Z_Registration_Info_UClass_ATestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestActor), 848527644U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_1930029170(TEXT("/Script/CryptRaider"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_1820917379(TEXT("/Script/CryptRaider"),
 	Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
