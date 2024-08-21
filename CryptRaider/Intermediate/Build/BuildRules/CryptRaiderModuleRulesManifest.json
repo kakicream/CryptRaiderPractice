@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Unreal\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
-		"D:\\Unreal\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaider.Target.cs",
-		"D:\\Unreal\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+		"C:\\JB\\UnrealProjects\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"C:\\JB\\UnrealProjects\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"C:\\JB\\UnrealProjects\\CryptRaiderPractice\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
