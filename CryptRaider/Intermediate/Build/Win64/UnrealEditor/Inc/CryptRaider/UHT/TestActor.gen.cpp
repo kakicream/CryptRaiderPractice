@@ -101,14 +101,14 @@ ATestActor::~ATestActor() {}
 // End Class ATestActor
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ATestActor, ATestActor::StaticClass, TEXT("ATestActor"), &Z_Registration_Info_UClass_ATestActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATestActor), 848527644U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_1820917379(TEXT("/Script/CryptRaider"),
-	Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_1820917379(TEXT("/Script/CryptRaider"),
+	Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration
