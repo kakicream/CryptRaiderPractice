@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.ignore" />
+    <None Include="..\..\.vsconfig" />
     <None Include="..\..\CryptRaider.code-workspace" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -91,12 +92,18 @@
     <Filter Include="Source\CryptRaider\Private">
       <UniqueIdentifier>{708D13E6-430B-3290-8C8D-2A9BA16AC597}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\CryptRaider\Private\Mover.cpp">
+      <Filter>Source\CryptRaider\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\CryptRaider\Private\RoomJActor.cpp">
       <Filter>Source\CryptRaider\Private</Filter>
     </ClCompile>
     <Filter Include="Source\CryptRaider\Public">
       <UniqueIdentifier>{AE55E8B1-1289-3FAD-9415-1EFBB700647F}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\CryptRaider\Public\Mover.h">
+      <Filter>Source\CryptRaider\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\CryptRaider\Public\RoomJActor.h">
       <Filter>Source\CryptRaider\Public</Filter>
     </ClInclude>

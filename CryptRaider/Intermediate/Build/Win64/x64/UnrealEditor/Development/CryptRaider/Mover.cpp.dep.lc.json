@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\jb\\unrealprojects\\cryptraiderpractice\\cryptraider\\source\\cryptraider\\private\\mover.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\jb\\unrealprojects\\cryptraiderpractice\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\jb\\unrealprojects\\cryptraiderpractice\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\jb\\unrealprojects\\cryptraiderpractice\\cryptraider\\source\\cryptraider\\public\\mover.h",
+            "c:\\jb\\unrealprojects\\cryptraiderpractice\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\mover.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

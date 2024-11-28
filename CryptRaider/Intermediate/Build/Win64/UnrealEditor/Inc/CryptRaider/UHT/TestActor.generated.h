@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CRYPTRAIDER_TestActor_generated_h
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesATestActor(); \
 	friend struct Z_Construct_UClass_ATestActor_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ATestActor)
 
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ATestActor(ATestActor&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ATestActor();
 
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_9_PROLOG
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_GENERATED_BODY \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_9_PROLOG
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_INCLASS_NO_PURE_DECLS \
+	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CRYPTRAIDER_API UClass* StaticClass<class ATestActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h
+#define CURRENT_FILE_ID FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_TestActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
