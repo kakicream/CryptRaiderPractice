@@ -13,7 +13,6 @@ UMover::UMover()
 	// ...
 }
 
-
 // Called when the game starts
 void UMover::BeginPlay()
 {
@@ -23,18 +22,30 @@ void UMover::BeginPlay()
 	
 }
 
-
 // Called every frame
 void UMover::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
 	AActor* Owner = GetOwner();// 해당 컴포텉느를 소유한 액터 주소를 저장하는 변수
+	// FString Name = (*Owner).GetActorNameOrLabel();
+	FString Name = Owner->GetActorNameOrLabel(); // 윗줄과 같은 기능, but much simpler
+	FVector OwnerLocation = Owner->GetActorLocation();
+	FString OwnerLocationString = OwnerLocation.ToCompactString();
 	
-	UE_LOG(LogTemp, Display, TEXT("Mover Owner Address : %u"), Owner);
-	Speed += DeltaTime;
+	
+	UE_LOG(LogTemp, Display, TEXT("Mover Owner: %s"), *Name); // *u : 주소값 *s : string
+	UE_LOG(LogTemp, Display, TEXT("Mover Location : %s"), *OwnerLocationString );
+
+	
+	// float MyFloat = 5;
+	// float* YourFloat = &MyFloat; // MyFloat의 주소를 YourFloat에 저장
+	// // float FloatValue = *YourFloat; // Get me the value at this location	
+	// UE_LOG(LogTemp, Display, TEXT("YourFloat Value : %f"),*YourFloat);// FloatValue);
 	
 	
+	
+
 	
 }
 
