@@ -6,14 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/Dungeon.umap",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/BP_Torch_Dungeon.uasset",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/BP_Player.uasset",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/BP_CryptRaiderGameMode.uasset",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/Blueprints/BP_CryptRaiderGameController.uasset",
-				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/Blueprints/BP_CryptRaiderPlayerController.uasset",
-				"D:/Unreal/CryptRaiderPractice/CryptRaider/Content/Dungeon.umap",
-				"D:/Unreal/CryptRaiderPractice/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset"
+				"C:/JB/UnrealProjects/CryptRaiderPractice/CryptRaider/Content/BP_Player.uasset"
 			]
 		}
 	]

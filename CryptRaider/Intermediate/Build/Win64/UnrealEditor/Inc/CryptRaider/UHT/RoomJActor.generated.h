@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CRYPTRAIDER_RoomJActor_generated_h
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesARoomJActor(); \
 	friend struct Z_Construct_UClass_ARoomJActor_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ARoomJActor)
 
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ARoomJActor(ARoomJActor&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ARoomJActor();
 
 
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_9_PROLOG
-#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_GENERATED_BODY \
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_9_PROLOG
+#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_ENHANCED_CONSTRUCTORS \
+	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_INCLASS_NO_PURE_DECLS \
+	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CRYPTRAIDER_API UClass* StaticClass<class ARoomJActor>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h
+#define CURRENT_FILE_ID FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_RoomJActor_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

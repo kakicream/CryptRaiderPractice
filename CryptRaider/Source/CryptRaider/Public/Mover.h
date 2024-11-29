@@ -7,12 +7,12 @@
 #include "Mover.generated.h"
 
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
 class CRYPTRAIDER_API UMover : public UActorComponent
 {
 	GENERATED_BODY()
 
-public:	
+public:
 	// Sets default values for this component's properties
 	UMover();
 
@@ -20,10 +20,21 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
-	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	virtual void TickComponent(float DeltaTime, ELevelTick TickType,
+	                           FActorComponentTickFunction* ThisTickFunction) override;
+	// UPROPERTY(EditAnywhere)
+	// float Speed = 10.0;
+
+private:
 	UPROPERTY(EditAnywhere)
-	float Speed = 10.0;
-		
+	FVector MoveOffset;
+	UPROPERTY(EditAnywhere)
+	float MoveTime = 4.0;
+	UPROPERTY(EditAnywhere)
+	bool ShouldMove = false;
+
+	FVector OriginalLocation;
+	
 };
