@@ -79,14 +79,14 @@ UGrabber::~UGrabber() {}
 // End Class UGrabber
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics
+struct Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UGrabber, UGrabber::StaticClass, TEXT("UGrabber"), &Z_Registration_Info_UClass_UGrabber, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGrabber), 1674230573U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_2936515646(TEXT("/Script/CryptRaider"),
-	Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_2936515646(TEXT("/Script/CryptRaider"),
+	Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Grabber_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define CRYPTRAIDER_Mover_generated_h
 
-#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_INCLASS_NO_PURE_DECLS \
+#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUMover(); \
 	friend struct Z_Construct_UClass_UMover_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UMover)
 
 
-#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_ENHANCED_CONSTRUCTORS \
+#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	UMover(UMover&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~UMover();
 
 
-#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_10_PROLOG
-#define FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_GENERATED_BODY \
+#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_10_PROLOG
+#define FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_INCLASS_NO_PURE_DECLS \
-	FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_ENHANCED_CONSTRUCTORS \
+	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_INCLASS_NO_PURE_DECLS \
+	FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> CRYPTRAIDER_API UClass* StaticClass<class UMover>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_JB_UnrealProjects_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h
+#define CURRENT_FILE_ID FID_Unreal_CryptRaiderPractice_CryptRaider_Source_CryptRaider_Public_Mover_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
