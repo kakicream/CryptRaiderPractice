@@ -13,43 +13,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2f284e3-18e5-46a4-abcf-eab12b30b9f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CryptRaider.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CryptRaider.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CryptRaider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CryptRaider/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/CryptRaiderEditor.target" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/CryptRaiderEditor.target" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_0.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_0.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_2.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_3.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_4.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_4.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_5.exp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.patch_1.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/Win64/UnrealEditor-CryptRaider.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Dungeon.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Dungeon.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CryptRaiderModuleRules.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CryptRaiderModuleRules.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CryptRaiderModuleRulesManifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRules/CryptRaiderModuleRulesManifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/CryptRaiderModuleRules.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/CryptRaiderModuleRules.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/CryptRaiderModuleRules.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/CryptRaiderModuleRules.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/CryptRaiderModuleRules.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/CryptRaiderModuleRules.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/CryptRaiderModuleRules.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/CryptRaiderModuleRules.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/CryptRaiderModuleRules.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/Development/CryptRaiderModuleRules.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/BuildRulesProjects/CryptRaiderModuleRules/obj/rider.project.restore.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/SourceFileCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/CryptRaiderEditor/Development/CryptRaiderEditor.uhtmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/CryptRaiderEditor/Development/CryptRaiderEditor.uhtmanifest" afterDir="false" />
@@ -78,68 +52,45 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/CryptRaider/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/CryptRaider/UHT/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Core/SharedPCH.Core.RTTI.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/CoreUObject/SharedPCH.CoreUObject.RTTI.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/DependencyCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/DependencyCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Engine/SharedPCH.Engine.Project.ValApi.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Makefile.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Makefile.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/Slate/SharedPCH.Slate.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/TargetMetadata.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/TargetMetadata.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.cpp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/CryptRaiderEditor/Development/UnrealEd/SharedPCH.UnrealEd.RTTI.Cpp20.h.obj.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/ActionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.Shared.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.Shared.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.Shared.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.dep.lc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaider.init.gen.cpp.obj.rsp.lc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderCharacter.gen.cpp.dep.json" afterDir="false" />
@@ -157,22 +108,17 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderProjectile.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderProjectile.gen.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderProjectile.gen.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/CryptRaiderProjectile.gen.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Default.rc2.res.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Default.rc2.res.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Default.rc2.res.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Definitions.CryptRaider.h" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Definitions.CryptRaider.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.dep.lc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.dep.lc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.obj.rsp.lc" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.cpp.obj.rsp.lc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.dep.lc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Grabber.gen.cpp.obj.rsp.lc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.dep.lc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.cpp.obj.rsp.lc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.dep.lc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.obj.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/Mover.gen.cpp.obj.rsp.lc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/RoomJActor.gen.cpp.dep.json" afterDir="false" />
@@ -190,10 +136,8 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/TestActor.gen.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/TestActor.gen.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/TestActor.gen.cpp.obj.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/TestActor.gen.cpp.obj.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.dll.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.dll.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.dll.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.lib.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.lib.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.lib.rsp.old" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.sup.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/Win64/x64/UnrealEditor/Development/CryptRaider/UnrealEditor-CryptRaider.sup.exp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/Build/XmlConfigCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/Build/XmlConfigCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/CachedAssetRegistry_0.bin" afterDir="false" />
@@ -205,30 +149,18 @@
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UE5.vcxproj.filters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UECommon.props" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ProjectFiles/UECommon.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ProjectFiles/UECommon.props.old" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intermediate/ReimportCache/3688439234.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Intermediate/ReimportCache/3688439234.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Dungeon_Auto1.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/Game/Dungeon_Auto2.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-185986624015E89330AAF3A8178A23E6/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-646BC35F4B88033B6383B68AF35EAE3E/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-73DA7E79414A47EB2BE391B88E697762/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A1FCCBE04C1891D6CAC15B9D41B46066/CrashReportClient.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-A9E3CC4E4D0DA9EA833E9E9ABBBE08AF/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-5B0C46C048DD4E93C02D7584A5A782AF/CrashReportClient.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/CrashReportClient/UECC-Windows-6990497149AC4A60B3769B81D6CBEE9C/CrashReportClient.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/GameUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/3718328229.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WorldState/3718328229.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider-backup-2024.11.29-10.03.51.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider-backup-2024.11.29-10.11.29.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider-backup-2024.11.29-10.16.03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WorldState/3718328229.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CryptRaider.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider_2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Logs/CryptRaider_2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2024.11.29-19.03.55.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/Logs/UnrealVersionSelector-2024.11.29-19.03.55.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Logs/CryptRaider_2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Saved/Telemetry/Telemetry.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Telemetry/Telemetry.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/CryptRaider/Private/Grabber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CryptRaider/Private/Grabber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/CryptRaider/Public/Grabber.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/CryptRaider/Public/Grabber.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,11 +173,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/CryptRaider/Private/Grabber.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/CryptRaider/Public/Grabber.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/CryptRaider/Public/Mover.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/CryptRaider/Public/RoomJActor.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="Toolset" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -270,7 +203,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "UnrealLinkOptionsId",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -389,6 +322,9 @@
       <workItem from="1732897943113" duration="277000" />
       <workItem from="1732898235522" duration="854000" />
       <workItem from="1732899118104" duration="1168000" />
+      <workItem from="1733104430480" duration="1298000" />
+      <workItem from="1733127768659" duration="659000" />
+      <workItem from="1733128859850" duration="1202000" />
     </task>
     <servers />
   </component>
@@ -399,6 +335,17 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Source/CryptRaider/Private/Grabber.cpp</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

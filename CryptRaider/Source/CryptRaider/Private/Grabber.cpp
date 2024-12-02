@@ -3,6 +3,7 @@
 
 #include "Grabber.h"
 #include "Engine/World.h"
+#include "DrawDebugHelpers.h"
 
 // Sets default values for this component's properties
 UGrabber::UGrabber()
@@ -29,15 +30,24 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
-	FRotator MyRotation = GetComponentRotation();
-	FString RotationString = MyRotation.ToCompactString(); // Compact : changes pitch & yaw --> roll is set to 0
+	FVector Start = GetComponentLocation();
+	FVector End = Start + GetForwardVector() * MaxGrabDistance;
+
+	DrawDebugLine(GetWorld(), Start, End, FColor::Red, false);
+
+	float Damage = 0;
+	float& DamageRef = Damage; // Getting the reference of Damage variable
+	DamageRef = 5;
+	UE_LOG(LogTemp, Display, TEXT("DamageRef : %f, Damage : %f"), DamageRef, Damage); // Both Damage and DamageRef are 5
 
 
-	UE_LOG(LogTemp, Display, TEXT("Grabber Rotation : %s"), *RotationString);
-	
+	//	FRotator MyRotation = GetComponentRotation();
+	//	FString RotationString = MyRotation.ToCompactString(); // Compact : changes pitch & yaw --> roll is set to 0
+
+
+	//	UE_LOG(LogTemp, Display, TEXT("Grabber Rotation : %s"), *RotationString);
+
 	// UWorld* World =GetWorld();
-	float Time = GetWorld()->TimeSeconds;
-	UE_LOG(LogTemp, Display, TEXT("Current Time Is : %f"), Time);
-
-	
+	// float Time = GetWorld()->TimeSeconds;
+	// UE_LOG(LogTemp, Display, TEXT("Current Time Is : %f"), Time);
 }
